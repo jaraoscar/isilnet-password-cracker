@@ -3,10 +3,13 @@ Experimental *tool* based on `shell` scripting for obtaining passwords by brute 
 
 ![ISILNet Password Cracker Tool v1.0 Screenshot](https://cloud.githubusercontent.com/assets/11019675/6259190/dbb6ba72-b79d-11e4-8e6c-8d790de211bc.PNG)
 
+I've used *English* for the code and *Spanish* for the interaction since this will be used *(I assume)* by spanish  people in most of the cases.
+
 ### Notes
 Before doing anything, you **MUST** consider the following:
 
 - **The author does not take any responsibility** of what you could do with this *tool*, use it at your own risk.
+- **The author has nothing against ISILNet system**, this *tool* was only an **experiment**.
 - **Everything is working fine until today 18/02/2015**. I point this out because if system modifies their security standards or a major change happens, script might not work and some analysis will be needed in order to make it work again.
 
 Extra:
