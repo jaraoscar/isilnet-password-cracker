@@ -31,7 +31,7 @@ Extra:
 - File might be in `UNIX` format and `ANSI` encoded.
 
 #### How to make it work?
-In order to start cracking a password...
+In order to start cracking a password:
 
 - Modify `USER` variable from configuration section including username from the victim.
 - Modify other variables only if you know what you are doing otherwise leave them by default.
