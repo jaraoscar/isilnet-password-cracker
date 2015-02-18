@@ -2,8 +2,8 @@
 Experimental tool based on shell scripting for obtaining passwords by brute force from *ISILNet* system users. Please read *FAQ* for better understanding.
 
 ### Notes
-
-
+- The author does not take any responsibility of what you could do with this tool, use it at your own risk.
+- Everything is working fine until today *18/02/2015*. I point this out because if system modifies their security standards or a major change happens, script might not work and some analysis will be needed in order to make it work again.
 
 ### FAQ
 
@@ -25,4 +25,4 @@ In order to start cracking a password...
 
 - Modify `USER` variable from configuration section including username from the victim.
 - Modify other variables only if you know what you are doing otherwise leave them by default.
-- Go to your terminal and run the following command: `sh /path/to/script.sh`
+- Go to your terminal and run the following command: `sh /path/to/isil.sh`
