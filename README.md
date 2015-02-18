@@ -1,9 +1,7 @@
 ## ISILNet Password Cracker Tool v1.0
-Experimental *tool* based on `shell` scripting for obtaining passwords by brute force from **ISILNet** system users. Please read *FAQ* for better understanding.
+Experimental *tool* based on `shell` scripting for obtaining passwords by brute force from ***ISILNet*** system users. Please read ***FAQ*** for better understanding.
 
 ![ISILNet Password Cracker Tool v1.0 Screenshot](https://cloud.githubusercontent.com/assets/11019675/6259190/dbb6ba72-b79d-11e4-8e6c-8d790de211bc.PNG)
-
-I've used *English* for the code and *Spanish* for the interaction since this will be used *(I assume)* by spanish  people in most of the cases.
 
 ### Notes
 Before doing anything, you **MUST** consider the following:
@@ -15,6 +13,7 @@ Before doing anything, you **MUST** consider the following:
 Extra:
 
 - For more brute force password cracking styles in `shell`, you may find this [website](http://users.telenet.be/mydotcom/program/shell/bruteforce.htm) interesting.
+- I've used *English* for the code and *Spanish* for the interaction since this will be used *(I assume)* by spanish  people in most of the cases.
 
 ### FAQ
 
