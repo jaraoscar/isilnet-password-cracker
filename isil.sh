@@ -15,7 +15,7 @@
 shopt -s nocasematch
 
 ##
-# Configuration section
+# Config. section
 ##
 APP_NAME="ISILNet Password Cracker Tool"
 APP_VERSION="1.0"
@@ -23,7 +23,7 @@ APP_AUTHOR="Oscar Jara"
 APP_AUTHOR_EMAIL="oscar_e24@hotmail.com"
 
 ##
-# Configuration section
+# Config. section
 # --
 # > URL = Where the login requests are processed in remote website.
 # > USER = Username that you wish to have its password (e.g. i012345).
@@ -32,7 +32,7 @@ URL="https://isilnet.isil.pe/login.asp"
 USER="i012345"
 
 ##
-# Configuration section
+# Config. section
 # --
 # After analyzing remote website behavior in each context (success, fail or maintenance) 
 # below variables will store the strings that can be always found in each server response.
@@ -45,7 +45,7 @@ FAILED_STR="olvidaste tu clave"
 MAINTENANCE_STR="estamos actualizando"
 
 ##
-# Configuration section
+# Config. section
 # --
 # > LOGIN_CMD = Command to perform a login attempt in remote website.
 ##
