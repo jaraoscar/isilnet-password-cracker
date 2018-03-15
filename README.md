@@ -1,7 +1,9 @@
 ## ISILNet Password Cracker Tool v1.0
 ### Update (1/19/2016): This tool won't work anymore since the institute changed their system.
 
-Experimental *tool* based on `shell` scripting for obtaining user passwords by brute force from **ISILNet** system. Please read **FAQ** for better understanding plus the *script* comments.
+Experimental *tool* based on `shell` scripting for obtaining user passwords by brute force from the **ISILNet** system. 
+
+Please read the **FAQ** for better understanding plus the *script* comments.
 
 ![ISILNet Password Cracker Tool v1.0 Screenshot](https://cloud.githubusercontent.com/assets/11019675/6259190/dbb6ba72-b79d-11e4-8e6c-8d790de211bc.PNG)
 
