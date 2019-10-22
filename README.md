@@ -1,7 +1,7 @@
 ## ISILNet Password Cracker Tool v1.0
 ### Update (1/19/2016): This tool won't work anymore since the institute changed their system.
 
-Experimental *tool* based on `shell` scripting for obtaining user passwords by brute force from the **ISILNet** system. 
+Experimental *tool* based on `shell` scripting for obtaining user (yep, students and professors) passwords by brute force from the **ISILNet** system. 
 
 Please read the **FAQ** for better understanding plus the *script* comments.
 
@@ -28,7 +28,7 @@ Extra:
 - To take advantage of security breaches in order to brute force a password from any user. This usually happens when using weak passwords like the current system does (just numeric) plus, there are no login validation attemps and security is not the best at the server side.
 
 #### How it works?
-- *Script* will generate passwords and login attempts and won't stop until getting a success one. In order to know what's going on, server responses will be evaluated to know if login was success, failed or remote website is under maintenance. If the last scenario happens, the process will wait for it until it gets available again before re-trying an attempt, that means you just need to run the *script* and leave it doing its own job. Remember that breaking a password could take time and there are a total of *1000000 (one million)* password combinations to test *(which is not much, really)*. I'll suggest to run the *script* during a whole weekend for example. Your internet connection also counts to make this process faster, please be patient.
+- *Script* will generate passwords and login attempts and won't stop until getting a success one. In order to know what's going on, server responses will be evaluated to know if login was success, failed or remote website is under maintenance. If the last scenario happens, the process will wait for it until it gets available again before re-trying an attempt, that means you just need to run the *script* and leave it doing its own job. Remember that breaking a password could take time and there are a total of *1000000 (one million)* password combinations to test *(which is not much, really)*. I'll suggest to run the *script* during a whole weekend for example. Your internet connection also counts to make this process faster, please be patient :-)
 
 #### What do I need to make it work?
 - `Unix` terminal or `Cygwin` with `bash` and `wget`.
